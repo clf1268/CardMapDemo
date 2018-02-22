@@ -44,6 +44,7 @@
     [self.view addSubview:self.navView];
     [self.view addSubview:self.zoomView];
     [self.view bringSubviewToFront:self.cardView];
+
 }
 
 
